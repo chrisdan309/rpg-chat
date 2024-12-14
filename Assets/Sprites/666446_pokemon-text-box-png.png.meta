@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      666446_pokemon-text-box-png_0: 7188774702704115665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

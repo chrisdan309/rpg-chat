@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flat_750x_075_f-pad_750x1000_f8f8f8-removebg-preview_0: 4924366817693389287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
